@@ -17,4 +17,4 @@
 
 
 
-[linkedin]: https://linkedin.com/in/Josh
+[linkedin]: https://linkedin.com/in/elijah-mcgill-811b0423b/
