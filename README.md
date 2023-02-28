@@ -1,4 +1,4 @@
-<h1>Hi, I'm Elijah, an <a href="https://linkedin.com/in/in/elijah-mcgill-811b0423b/">IT Professional
+<h1>Hi, I'm Elijah, an <a href="https://linkedin.com/in/elijah-mcgill-811b0423b/">IT Professional
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
