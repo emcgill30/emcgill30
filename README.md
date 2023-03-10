@@ -5,7 +5,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/emcgill30/osticket-prereqs)
    - [osTicket: Post-Installation Configuration](https://github.com/emcgill30/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/emcgill30/ticket-lifecycle)
+  
 
 <h2>🤳Connect with me:</h2>
 
